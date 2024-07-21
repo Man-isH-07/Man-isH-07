@@ -11,7 +11,6 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=man-ish-07&show_icons=true&locale=en&layout=compact" alt="man-ish-07" /></p>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=man-ish-07" alt="man-ish-07" /></a> </p>
 
@@ -43,6 +42,8 @@
 
 
 <center><p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=man-ish-07&" alt="man-ish-07" /></p></center>
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=man-ish-07&show_icons=true&locale=en" alt="man-ish-07" /></p>
+
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=man-ish-07&show_icons=true&locale=en&layout=compact" alt="man-ish-07" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=man-ish-07&show_icons=true&locale=en" alt="man-ish-07" /></p>
 
 
