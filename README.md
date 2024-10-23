@@ -14,9 +14,9 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=man-ish-07" alt="man-ish-07" /></a> </p>
 
-- 🔭 I’m currently working on   **Digi_Finance - A Web Market For MSME's (Coming Soon)**
+- 🔭 I’m currently working on   **Advanced Hospital Management System (Coming Soon)**
 
-- 🌱 I’m currently learning   **Power BI & Web Scraping**
+- 🌱 I’m currently learning   **MERN Stack**
 
 - 👨‍💻 All of my projects are available at   [https://github.com/Man-isH-07?tab=repositories](https://github.com/Man-isH-07?tab=repositories)
 
