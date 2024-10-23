@@ -24,7 +24,7 @@
 
 - 📫 How to reach me   **manishdhaye07@gmail.com**
 
-- 📄 Know about my experiences   [MyResume](https://drive.google.com/file/d/1AfZJlh-cCQHhKE6yNSMMJyoA-5nxX2zx/view?usp=sharing)
+- 📄 Know about my experiences   [MyResume](https://drive.google.com/file/d/1lMvlg1jztYYR2jdSH8Z82RcvPe_plEaz/view?usp=sharing)
 
 - ⚡ Fun fact     **You Only Fail When You Stop Trying**
 
